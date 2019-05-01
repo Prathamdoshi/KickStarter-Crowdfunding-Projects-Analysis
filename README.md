@@ -86,3 +86,4 @@ Data was visualized for better interpretation of the trends
 ## Fututre improvements 
 - More KPI's and trends will be found 
 - Better visualization will be done with excel 
+- More detailed analysis
